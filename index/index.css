@@ -1,0 +1,192 @@
+	/*Download new fonts*/
+	
+	
+	#site-title
+	{
+	margin-top:20pt;	
+	}
+
+
+	h1
+	{ color:#9B3333;
+	letter-spacing:0.5px;
+	text-align:center;
+	font-family: 'Arvo', serif;
+	font-size:50pt;
+	font-weight:stronger;
+	word-spacing:4px;
+	margin-left:25;
+	margin-right:25;
+	}
+
+
+	h2
+	{color:#6E0733;
+	letter-spacing:0.5px;
+	text-align:left;
+	font-family:'Arvo', serif;
+	font-size:38pt;
+	font-weight:strong;	
+	margin-left:25;
+	margin-right:25;
+	}
+
+
+	h3
+	{color:#6E0733;
+	letter-spacing:0.5px;
+	text-align:left;
+	font-family: 'Archivo Black', sans-serif;
+	font-size:25pt;
+	font-weight:strong;	
+	margin-left:25;
+	margin-right:25;
+	}
+	
+	h4
+	{
+	color:#6E0733;
+	letter-spacing:0.5px;
+	text-align:left;
+	font-family: 'Archivo Black', sans-serif;
+	font-size:18pt;
+	font-weight:light;	
+	margin-left:25;
+	margin-right:25;
+	}
+	h5 {
+		
+	color:#6E0733;
+	text-align:left;
+	font-family: 'Archivo', sans-serif;
+	font-size:18pt;
+	font-weight:strong;	
+	margin-left:25;
+	margin-right:25;
+	}
+	
+	
+	nav {
+	 text-align:center;
+	 word-spacing:2pt;
+	 font-size:15pt;
+	
+	}
+
+	a
+	{text-decoration:none;
+		color:#0c331c;
+		font-weight:stronger;
+		text-align:center;
+		font-family: 'Archivo Black', sans-serif;
+	`	font-size:20pt;
+	 margin-left:20;
+	margin-right:20;
+	}
+	
+	p, ul, li{
+	color:#6E0733;
+	letter-spacing:0.5px;
+	text-align:justify;
+	font-family: 'Archivo', sans-serif;
+	font-size:15pt;
+	font-weight:strong;	
+margin-left:25;
+	margin-right:25;
+		
+	}
+
+	img#logo{
+	height:180px;
+	width:180px;
+	position:absolute;right: 1500px; top: 10px
+	}
+	
+	#learn-intro {
+	 text-align:right;
+	 position: relative;
+	}
+	#list {
+	 position: absolute;right: 600px; top: 420px
+	}
+	#list2 {
+	 position: absolute;right: 10px; top: 420px
+	}
+	img#layout1 {
+		height:800; width:1000;
+		 position:absolute;  left: 20px; top: 450px
+	}
+	
+	img#layoutb{
+	height:800; width:1000;
+	 position:absolute;  left: 20px; top: 1100px
+	}
+	img#living1{
+	height:600; width:1000;	
+	position:absolute;  left: 400px; top: 190x
+	
+	}
+	
+	img#table1 {
+		height:450; width:750;
+		position:absolute;  left: 100px; top: 190px
+		}
+		
+	img#pantry1{
+		height:450; width:750;
+		position:absolute;  left: 1000px; top: 190px		
+		}
+	
+	img#closet1{
+		height:550; width:900;
+		position:absolute;  left: 450px; top: 190px		
+		}
+	img#toilet1{
+		height:700; width:600;
+		position:absolute;  left: 600px; top: 190px		
+		}
+	img#kitchen1{
+		height:600; width:900;
+		position:absolute;  left: 450px; top: 190px		
+		}
+	
+	img#catslay1{
+		height:450; width:450;
+		position:absolute;  right: 610px; top: 495px
+	
+		
+	}
+	
+	img#album_1{
+		height:150; width:150;
+		position:absolute;  right: 850px; top: 790px;
+		border-size:3pt;
+		border-style:outset;
+		border-color:#D69AB9 ;
+	}
+	img#album_2{
+		height:150; width:150;
+		position:absolute;  right: 850px; top: 950px;
+		border-size:3pt;
+		border-style:outset; border-color:#D69AB9 ;
+	}
+	img#album_3{
+		height:150; width:150;
+		position:absolute;  right: 680px; top: 790px;
+		border-size:3pt;
+		border-style:outset; border-color:#D69AB9 ;
+	}
+	img#album_4{
+		height:150; width:150;
+		position:absolute;  right: 680px; top: 950px;
+		border-size:3pt;
+		border-style:outset; border-color:#D69AB9 ;
+	}
+	table#lesson{
+		text-align:center;
+		background-color:#F3C8B5;
+		position:absolute; left:100px; top:1000px;
+		padding-bottom:30pt; padding-top:12pt;
+		
+	}
+	
